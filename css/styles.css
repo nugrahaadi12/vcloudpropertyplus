@@ -514,7 +514,9 @@ mark,
   border: 1px solid #d7dce3;
   border-radius: 0.35rem;
   max-width: 100%;
-  height: auto;
+  max-height: 75%;
+  min-height: 70%;
+  min-width: 80%;
 }
 
 .figure {
