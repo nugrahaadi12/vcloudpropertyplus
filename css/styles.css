@@ -21133,6 +21133,8 @@ small
   grid-row-gap: var(--spacing-l);
   max-width: var(--width-container);
   width: 100%;
+  align-content: flex-end;
+  align-items: center;
 }
 
 @media(min-width: 540px){
